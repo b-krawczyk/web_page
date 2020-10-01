@@ -9,8 +9,10 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	margin: 0 auto;
-	padding: 10px;
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	
 	width: 100vw;
 	-webkit-box-shadow: 0 6px 4px -6px black;
